@@ -1,0 +1,22 @@
+//Day 1 b//
+
+#include<stdio.h>
+
+int main()
+{
+    int a;
+    float b;
+a=34.0;
+b=6.34;
+
+
+printf("a+b= %f\n", a+b);
+printf("a-b= %f\n", a-b);
+printf("a/b= %f\n", a/b);
+printf("a*b= %f\n", a*b);
+
+
+    return 0;
+
+
+}
