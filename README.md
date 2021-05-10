@@ -1,2 +1,2 @@
-# Coding
-Learning 
+#30 days of code
+
