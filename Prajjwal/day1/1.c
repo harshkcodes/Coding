@@ -13,10 +13,10 @@ a=num%10;
 b=num/10;
 c=b%10;
 d=b/10;
-e= a+c+d;
+e=(d*100)+(c*10)+(a);
 if (e==num)
 printf("Number is palindrome");
 else
-printf("Number is not palindrme");
+printf("Number is not palindrome");
 
 }
