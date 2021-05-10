@@ -26,7 +26,7 @@ int main()
     else if(year%7==4)
         printf("Saturday");
     else if(year%7==5)
-        printf("Sunday");
+        printf("Sunday1");
 
 
 }
