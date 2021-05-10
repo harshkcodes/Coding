@@ -1,4 +1,4 @@
-//Day 1 b//
+// b//
 
 #include<stdio.h>
 
