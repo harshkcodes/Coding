@@ -44,7 +44,7 @@ else if(marks>30 && marks<60)
 else
 {
 printf("Fail");
-   
+    return 0;
 }
- return 0;
+
 }
