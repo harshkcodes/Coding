@@ -10,7 +10,7 @@ int main()
 
     if (a>0)
     {
-        printf("NUmber is positive");
+        printf("The number is positive");
 
     }
     
